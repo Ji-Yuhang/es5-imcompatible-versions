@@ -432,6 +432,18 @@
           "version": "^2.5.10",
           "reason": "https://github.com/PearInc/PearPlayer.js/blob/master/dist/pear-player.js#L15617"
         }
+      },
+      "fuse.js": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/krisk/Fuse/blob/4ab09f268a/dist/fuse.basic.esm.js#L689"
+        }
+      },
+      "react-simple-animate": {
+        "*": {
+          "version": "*",
+          "reason": "https://github.com/bluebill1049/react-simple-animate/blob/master/tsconfig.json#L5"
+        }
       }
     }
   }
